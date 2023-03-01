@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "Charlyn Labrador",
+      "age": 21,
+      "quotes": "Love the life you live."
+    },
+    {
+      "name": "Jesryl Padla",
+      "age": 22,
+      "quotes": ""
+    }
+  ],
+  "studentinfo": [
+    {
+      "classsection": "Section A",
+      "sectioncode": "A001",
+      "buksuemail": "Charlynlabrador@buksu.edu.ph"
+    },
+    {
+      "classsection": "Section A",
+      "sectioncode": "A001",
+      "buksuemail": "Jesrylmaepadla@buksu.edu.ph"
+    }
+  ]
+}
